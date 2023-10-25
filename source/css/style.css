@@ -47,8 +47,13 @@ div > input {
     padding: 10px;
     border: 1px solid rgba(0, 0, 0, 0.486);
     border-radius: 3px;
-    margin-bottom: 53px;
+    margin-bottom: 8px;
 
+}
+
+div > button {
+    margin-left: 54px;
+    margin-bottom: 50px;
 }
 
 footer {
