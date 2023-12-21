@@ -37,10 +37,10 @@ section {
 
 }
 
-#img{
-    margin-bottom: 129px;
+#foto {
+    width: 430px;
+    height: 270px;
 }
-
 
 div > input {
     display: block;
