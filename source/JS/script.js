@@ -8,5 +8,8 @@ function pesquisar()
     {
         document.getElementById('animalnome').innerHTML = "Vaca"
         img.src = '/source/img/vaca.png'
+    } else if (valorinput == "cachorro") {
+        document.getElementById('animalnome').innerHTML = "Cachorro"
+        img.src = '/source/img/cachorro.jpg'
     }
 }
