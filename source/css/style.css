@@ -39,7 +39,11 @@ section {
 
 #foto {
     width: 430px;
-    height: 270px;
+    height: 320px;
+}
+
+#resposta{
+    text-align: center;
 }
 
 div > input {
@@ -48,12 +52,12 @@ div > input {
     border: 1px solid rgba(0, 0, 0, 0.486);
     border-radius: 3px;
     margin-bottom: 8px;
+    text-align: center;
 
 }
 
 div > button {
-    margin-left: 54px;
-    margin-bottom: 50px;
+    margin-bottom: 15px;
 }
 
 footer {
